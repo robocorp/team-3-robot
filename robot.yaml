@@ -1,0 +1,11 @@
+tasks:
+  Visit Robocorp.com:
+    robotTaskName: Visit Robocorp.com
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

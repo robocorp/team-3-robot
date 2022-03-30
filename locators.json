@@ -1,0 +1,16 @@
+{
+    "Robocorp Title": {
+        "screenshot": ".images/robocorp-title-screenshot.png",
+        "source": "https://robocorp.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//div[@id='root']/section/div/div/div/h1"
+    },
+    "Robocorp Title Better": {
+        "screenshot": ".images/robocorp-title-better-screenshot.png",
+        "source": "https://robocorp.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".hero-section__title"
+    }
+}
